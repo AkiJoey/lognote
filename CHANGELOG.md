@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/akijoey/lognote/compare/v1.0.0...v1.0.1) (2022-04-05)
+
+
+### Bug Fixes
+
+* readme npm url ([dfc1a7a](https://github.com/akijoey/lognote/commit/dfc1a7a281652bd07ba316c6b95cf209029dfb9c))
+
 # 1.0.0 (2022-04-05)
 
 
