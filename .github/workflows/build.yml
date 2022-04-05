@@ -12,7 +12,6 @@ jobs:
       - uses: actions/setup-node@main
       - run: yarn --frozen-lockfile
       - run: yarn test
-      - run: yarn build
       - run: yarn release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
