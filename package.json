@@ -1,0 +1,31 @@
+{
+  "name": "lognote",
+  "version": "1.0.0",
+  "description": "A colorful logger.",
+  "keywords": [
+    "logger"
+  ],
+  "repository": "github:akijoey/lognote",
+  "homepage": "https://github.com/akijoey/lognote#readme",
+  "bugs": "https://github.com/akijoey/lognote/issues",
+  "author": "AkiJoey <akijoey@akijoey.com> (https://akijoey.com)",
+  "license": "MIT",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "lib/"
+  ],
+  "scripts": {
+    "lint": "devkit lint",
+    "test": "devkit test",
+    "format": "devkit format",
+    "prepare": "devkit prepare",
+    "release": "devkit release"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2"
+  },
+  "devDependencies": {
+    "@akijoey/devkit": "latest"
+  }
+}
