@@ -16,9 +16,8 @@ declare class Logger {
   constructor(options?: LoggerOptions)
 }
 
-declare const Lognote: typeof Logger & {
-  logger: Logger
-  note: Logger & chalk.Chalk
-}
+declare const logger: Logger
+declare const note: Logger & chalk.Chalk
 
-export = Lognote
+export default Logger
+export { logger, note }
