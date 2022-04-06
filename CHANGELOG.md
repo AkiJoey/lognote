@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/akijoey/lognote/compare/v1.0.2...v1.0.3) (2022-04-06)
+
+
+### Bug Fixes
+
+* package files ([672533e](https://github.com/akijoey/lognote/commit/672533e535af1d0a8c7d3a04f841065e78872362))
+
 ## [1.0.2](https://github.com/akijoey/lognote/compare/v1.0.1...v1.0.2) (2022-04-06)
 
 
