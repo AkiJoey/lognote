@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/akijoey/lognote/compare/v1.0.3...v1.0.4) (2022-04-06)
+
+
+### Bug Fixes
+
+* declaration file ([9f88d75](https://github.com/akijoey/lognote/commit/9f88d751f4e89b491cbbd4ad2491b1e220379b8d))
+
 ## [1.0.3](https://github.com/akijoey/lognote/compare/v1.0.2...v1.0.3) (2022-04-06)
 
 
