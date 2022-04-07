@@ -14,6 +14,7 @@ declare class Logger {
   format?: Format;
   [key: string]: any
   constructor(options?: LoggerOptions)
+  log: (message: string) => string | undefined
 }
 
 declare const logger: Logger
