@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/akijoey/lognote/compare/v1.0.4...v1.0.5) (2022-04-07)
+
+
+### Bug Fixes
+
+* common log ([3ae5d02](https://github.com/akijoey/lognote/commit/3ae5d02e99d0da4860e48ee174a750a1cd582bfc))
+
 ## [1.0.4](https://github.com/akijoey/lognote/compare/v1.0.3...v1.0.4) (2022-04-06)
 
 
