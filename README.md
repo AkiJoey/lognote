@@ -17,7 +17,7 @@ A colorful logger.
 
 [npm-image]: https://img.shields.io/npm/v/lognote
 [npm-url]: https://www.npmjs.com/package/lognote
-[build-image]: https://img.shields.io/github/workflow/status/akijoey/lognote/Build
+[build-image]: https://img.shields.io/github/actions/workflow/status/akijoey/lognote/build.yml
 [build-url]: https://github.com/akijoey/lognote/actions/workflows/build.yml
 [coverage-image]: https://img.shields.io/codecov/c/gh/akijoey/lognote
 [coverage-url]: https://codecov.io/gh/akijoey/lognote
