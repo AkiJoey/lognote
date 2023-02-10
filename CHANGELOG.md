@@ -1,3 +1,10 @@
+## [1.0.6](https://github.com/akijoey/lognote/compare/v1.0.5...v1.0.6) (2023-02-10)
+
+
+### Bug Fixes
+
+* build badge ([7e912e9](https://github.com/akijoey/lognote/commit/7e912e92270a9b3b5e347a3ea797366af5791e76))
+
 ## [1.0.5](https://github.com/akijoey/lognote/compare/v1.0.4...v1.0.5) (2022-04-07)
 
 
